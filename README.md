@@ -1,4 +1,4 @@
-# AI-Powered Fake News & Misinformation Detection during Climate Disasters 🌍
+# AI-Powered Fake News & Misinformation Detection during Climate Disasters
 
 ##Problem Statement
 During natural disasters like floods and cyclones, fake news and misinformation spread quickly on social media. 
